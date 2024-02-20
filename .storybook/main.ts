@@ -1,3 +1,4 @@
+//All okey
 module.exports = {
   stories: [
     "../../src/**/*.stories.@(js|jsx|mjs|ts|tsx)"
